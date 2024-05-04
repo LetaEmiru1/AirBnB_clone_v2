@@ -1,1 +1,1 @@
-0x02. AirBnB clone - MySQL
+#This is AirBnB_clone_V2 project
