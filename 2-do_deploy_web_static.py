@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-script based on the file 1-pack_web_static.py that distributes archive to
+based on the file 1-pack_web_static.py that distributes archive to
 webservers
 """
 import os.path
@@ -14,7 +14,7 @@ env.user = "ubuntu"
 
 
 def do_pack():
-    """ generates a .tgz archive from the contents of the web_static
+    """ generate a .tgz archive from the contents of the web_static
 
     All files in the folder web_static must be added to the final archive.
     All archives must be stored in the folder versions.
